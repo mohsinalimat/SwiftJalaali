@@ -12,6 +12,12 @@ Calendar conversion is based on the [algorithm provided by Kazimierz M. Borkowsk
 
 تقویم جلالی تقویمی شمسی است که در ایران و افغانستان استفاده میشود. [ادامه مطالعه در ویکیپدیا](http://en.wikipedia.org/wiki/Jalali_calendar)
 الگوریتم تبدیل تاریخ ها از [الگوریتم نوشته شده توسط Kazimierz M. Borkowski گرفته شده](http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm)
+
+## Demo
+
+![alt text](http://s9.picofile.com/file/8340200584/SwiftJalaali.png)
+
+
 ## Install
 ### Pod:
 you could add this pod to your podfile:
