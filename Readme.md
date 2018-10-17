@@ -10,7 +10,7 @@ Calendar conversion is based on the [algorithm provided by Kazimierz M. Borkowsk
 
 ## Install
 
-Use [Carthage](https://github.com/Carthage/Carthage) to build and install.
+Download and add 'SwiftJalaali.swift' to your project files.
 
 ## API
 
